@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    background-color: rgb(248, 248, 248);
+
+}
+
+header {
+    height: 10em;
+    background: rgb(194,88,223);
+    background: linear-gradient(0deg, rgba(194,88,223,1) 0%, rgba(107,175,255,1) 100%);
+}
+
+nav {
+    display: flex;
+    padding: 1em;
+}
+
+img {
+    margin-right: .5em;
+}
+
+.h1, h1 {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.navbar {
+    padding: 1rem 1rem;
+    background: rgb(194,88,223);
+    background: linear-gradient(0deg, rgba(194,88,223,1) 0%, rgba(107,175,255,1) 100%);
+}
+
+.patients {
+    display: flex;
+    justify-content: center;
+}
+
+.submitBtn {
+    margin-left: 1em;
+}
+
+.profile-view {
+    margin: 20px auto;
+    background: white;
+    width: 90%;
+    min-height: 400px;
+    border: 1px solid #f0f0f0;
+    border-radius: 10px;
+    border-color: #d4d1d1;
+    padding: .5rem;
+}
+
+.patient-info {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.h2, h2 {
+    font-size: 2rem;
+    color: #007bff;
+    border-bottom: 2px solid currentColor;
+}
+
+.h4, h4 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
