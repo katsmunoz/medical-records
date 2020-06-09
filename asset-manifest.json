@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/medical-records/static/css/main.11aa05f6.chunk.css",
+    "main.js": "/medical-records/static/js/main.127ef601.chunk.js",
+    "main.js.map": "/medical-records/static/js/main.127ef601.chunk.js.map",
+    "runtime-main.js": "/medical-records/static/js/runtime-main.7ec4e2af.js",
+    "runtime-main.js.map": "/medical-records/static/js/runtime-main.7ec4e2af.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/medical-records/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fe3da22c.chunk.js": "/medical-records/static/js/2.fe3da22c.chunk.js",
+    "static/js/2.fe3da22c.chunk.js.map": "/medical-records/static/js/2.fe3da22c.chunk.js.map",
+    "index.html": "/medical-records/index.html",
+    "precache-manifest.ede684e5aa295dedd742460a6a70c782.js": "/medical-records/precache-manifest.ede684e5aa295dedd742460a6a70c782.js",
+    "service-worker.js": "/medical-records/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/medical-records/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.11aa05f6.chunk.css.map": "/medical-records/static/css/main.11aa05f6.chunk.css.map",
+    "static/js/2.fe3da22c.chunk.js.LICENSE.txt": "/medical-records/static/js/2.fe3da22c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ec4e2af.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fe3da22c.chunk.js",
+    "static/css/main.11aa05f6.chunk.css",
+    "static/js/main.127ef601.chunk.js"
+  ]
+}
